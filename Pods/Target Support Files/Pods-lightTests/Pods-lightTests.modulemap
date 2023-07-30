@@ -1,0 +1,6 @@
+framework module Pods_lightTests {
+  umbrella header "Pods-lightTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
